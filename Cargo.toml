@@ -1,0 +1,13 @@
+[package]
+name = "checkCPU"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+clearscreen = "2.0.1"
+serde_json = "1.0"
+chrono = "0.4"
+
+[[bin]]
+name = "checkCPU"
+path = "src/main.rs"

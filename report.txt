@@ -1,0 +1,40 @@
+CPUID is present
+CPU Info for type #0:
+------------------
+  arch       : x86
+  purpose    : general
+  vendor_str : `AuthenticAMD'
+  vendor id  : 1
+  brand_str  : `AMD Ryzen 7 5800H with Radeon Graphics         '
+  family     : 15 (0Fh)
+  model      : 0 (00h)
+  stepping   : 0 (00h)
+  ext_family : 25 (19h)
+  ext_model  : 80 (50h)
+  num_cores  : 8
+  num_logical: 16
+  tot_logical: 16
+  affi_mask  : 0x0000FFFF
+  L1 D cache : 32 KB
+  L1 I cache : 32 KB
+  L2 cache   : 512 KB
+  L3 cache   : 16384 KB
+  L4 cache   : -1 KB
+  L1D assoc. : 8-way
+  L1I assoc. : 8-way
+  L2 assoc.  : 8-way
+  L3 assoc.  : 16-way
+  L4 assoc.  : -1-way
+  L1D line sz: 64 bytes
+  L1I line sz: 64 bytes
+  L2 line sz : 64 bytes
+  L3 line sz : 64 bytes
+  L4 line sz : -1 bytes
+  L1D inst.  : 8
+  L1I inst.  : 8
+  L2 inst.   : 8
+  L3 inst.   : 1
+  L4 inst.   : 0
+  SSE units  : 256 bits (authoritative)
+  code name  : `Ryzen 7 (Cezanne)'
+  features   : fpu vme de pse tsc msr pae mce cx8 apic mtrr sep pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht pni pclmul monitor ssse3 cx16 sse4_1 sse4_2 syscall movbe popcnt aes xsave osxsave avx mmxext nx fxsr_opt rdtscp lm lahf_lm cmp_legacy svm abm misalignsse sse4a 3dnowprefetch osvw ibs skinit wdt ts ttp tm_amd hwpstate constant_tsc fma3 f16c rdrand cpb aperfmperf avx2 bmi1 bmi2 sha_ni rdseed adx
